@@ -23,7 +23,8 @@ PlatinumRx_Assignment/
 │       └── 06_Clinic_Q5_Second_Least_Profitable_Per_State.sql ← Q5: 2nd least per state
 │
 ├── Spreadsheets/
-│   └── Ticket_Analysis.xlsx     ← 3 sheets: ticket, feedbacks, analysis
+│   └── Ticket_Analysis.xlsx     ← 3 sheets: ticket, feedbacks, analysis 
+    LINK : https://1drv.ms/x/c/7bc9d80e32af67ce/IQAHV8q2hZewT4xG0PnXYLsVAWXUEsg8vv6saVHnguxyoJE?e=e2cDWx  
 │
 ├── Python/
 │   ├── 01_Time_Converter.py     ← Convert minutes to hrs & minutes
